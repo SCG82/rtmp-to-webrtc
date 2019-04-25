@@ -3,15 +3,14 @@
 Low latency (within 500ms) live broadcast system based on RTMP-CDN and WebRTC
 
 
-### Viewing effect 
-
+### Demonstration
 
 https://rtmp-to-webrtc.dot.cc
 
 The demo is deployed on a personal test server with limited bandwidth. Please notify me if it hangs.
 
 
-### how to work
+### How it works
 
 -  RTMP is pushed to the CDN, and encoding parameters and gop parameter tuning are required.
 -  Edge node deploys webrtc server
